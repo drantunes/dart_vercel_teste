@@ -4,7 +4,7 @@ This template demonstrates how to run a [Vercel Edge](https://vercel.com/feature
 
 ## Getting Started
 
-Install the dependencies:
+Install the dependencies :
 
 ```bash
 dart pub get
